@@ -1,0 +1,20 @@
+.app-lists {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style-type: none;
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding-top: 16px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  width: 100%;
+  max-width: 128px;
+}
+.app-img {
+  width: 70%;
+}
+.appName {
+  text-align: center;
+}
